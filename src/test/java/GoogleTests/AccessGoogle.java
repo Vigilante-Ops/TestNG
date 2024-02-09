@@ -17,7 +17,7 @@ public class AccessGoogle extends Base
     {
         System.out.println(url);
         System.out.println("openGoogle");
-        System.out.println();
+        System.out.println("hi");
         webDriver.get(url);
     }
     @Test(priority = 2)
