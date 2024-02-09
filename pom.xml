@@ -34,7 +34,7 @@
                 <version>3.0.0-M5</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>C:\Users\amanv\Downloads\MockAPI\TestNG\src\test\resources\testng2.xml</suiteXmlFile>
+                        <suiteXmlFile>src/test/resources/testng2.xml</suiteXmlFile>
                         <!-- You can specify multiple TestNG XML files if needed -->
                     </suiteXmlFiles>
                 </configuration>
